@@ -11,7 +11,7 @@ st.set_page_config(page_title="Biomass AI Optimizer", page_icon="🌱", layout="
 
 st.title("🌱 AI Platform for Biomass Hydrolysis")
 st.write("### ระบบปัญญาประดิษฐ์เพื่อทำนายและเพิ่มประสิทธิภาพการย่อยสลายชีวมวล")
-st.write("พัฒนาโดยใช้โมเลกล Machine Learning เพื่อคำนวณผลผลิตตามหลักเคมีสีเขียว (Green Chemistry)")
+st.write("พัฒนาโดยใช้โมเลกุล Machine Learning เพื่อคำนวณผลผลิตตามหลักเคมีสีเขียว (Green Chemistry)")
 st.write("---")
 
 # 3. สร้างส่วนควบคุมในแถบด้านข้าง (Sidebar)
